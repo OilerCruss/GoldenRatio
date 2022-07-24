@@ -1,2 +1,2 @@
 # GoldenRatio
-golden objects simulation
+Golden objects simulation with p5.js
